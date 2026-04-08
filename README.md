@@ -18,6 +18,13 @@ A capable OpenClaw agent should be able to:
 - wire automation for the target environment
 - keep the result private unless explicitly told otherwise
 
+## How to use
+
+1. Give this repo to your OpenClaw agent.
+2. Ask it to build Reality Terminal for your environment.
+3. Answer its questions about region, preferences, and delivery.
+4. Let it create the final local version.
+
 ## Expected agent workflow
 
 A good agent should:
