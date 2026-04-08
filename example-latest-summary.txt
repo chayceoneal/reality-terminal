@@ -1,0 +1,18 @@
+New matches found across property watch.
+
+Apartment sale: 2 new
+- Sale apartment 3+kk 78 m², Prague 6 | 8 950 000 Kč | score 74.0
+- Sale apartment 2+1 72 m², Prague 10 | 7 490 000 Kč | score 68.0
+
+Apartment rent: 2 new
+- Rent apartment 3+1 84 m², Prague 7 | 28 000 Kč | score 81.0
+- Rent apartment 2+kk 71 m², Prague 5 | 25 500 Kč | score 72.0
+
+Family home sale: 1 new
+- Sale family home 5+kk 146 m², Prague-West | 11 900 000 Kč | score 66.0
+
+Family home rent: 1 new
+- Rent family home 4+kk 128 m², Prague-East | 34 000 Kč | score 63.0
+
+Land: 1 new
+- Scenic land 1 240 m², Central Bohemia | 4 850 000 Kč | score 71.0

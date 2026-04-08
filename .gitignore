@@ -1,0 +1,13 @@
+# Local/private runtime files
+config.json
+data/
+dashboard/
+latest-summary.txt
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

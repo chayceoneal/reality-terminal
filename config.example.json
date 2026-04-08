@@ -1,0 +1,21 @@
+{
+  "base_region": {
+    "name": "Hlavní město Praha",
+    "region_id": 10,
+    "region_type": "region",
+    "distance_km": 10
+  },
+  "apartment_layouts": ["2+1", "2+kk", "3+1", "3+kk", "4+kk", "4+1"],
+  "min_area_m2": 70,
+  "family_home_min_area_m2": 90,
+  "soft_price": {
+    "sale_excellent_under": 7500000,
+    "sale_good_under": 10000000,
+    "sale_stretch_under": 12000000,
+    "rent_excellent_under": 24000,
+    "rent_good_under": 30000,
+    "rent_stretch_under": 35000,
+    "family_home_sale_good_under": 10000000,
+    "land_sale_good_under": 6000000
+  }
+}
