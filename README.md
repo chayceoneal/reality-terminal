@@ -18,6 +18,12 @@ A capable OpenClaw agent should be able to:
 - wire automation for the target environment
 - keep the result private unless explicitly told otherwise
 
+## Example dashboard
+
+A sample Reality Terminal dashboard view, showing the terminal-style layout, bilingual labels, and ranked listing sections.
+
+![Reality Terminal example dashboard](/example-dashboard.jpeg)
+
 ## How to use
 
 1. Give this repo to your OpenClaw agent.
