@@ -22,7 +22,7 @@ A capable OpenClaw agent should be able to:
 
 A sample Reality Terminal dashboard view, showing the terminal-style layout, bilingual labels, and ranked listing sections.
 
-![Reality Terminal example dashboard](/example-dashboard.jpeg)
+![Reality Terminal example dashboard](example-dashboard.jpeg)
 
 ## How to use
 
